@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Model Weights
+*.pth
+*.pt
+
+# Datasets
+content_data/
+style_data/
+
+# Experiments
+experiments/
+checkpoints/
+
+# Uploads
+static/uploads/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
